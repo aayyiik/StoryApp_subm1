@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="nama">name</string>
+    <string name="register">Register</string>
+    <string name="succes_signup">Success Create New Account. Thank You!</string>
+    <string name="logout">logout</string>
+    <string name="deskripsi_gambar">Deskripsi Gambar</string>
+    <string name="image_description">Description</string>
+    <string name="description">description</string>
+    <string name="galery">Galery</string>
+    <string name="upload">Upload</string>
+    <string name="add_story">add story</string>
+    <string name="network_unavailable">network unvailavle</string>
+    <string name="alert_password_less_than_6">This Field fill min 6 character</string>
+    <string name="alert_invalid_email">Email Invalid</string>
+    <string name="name_logo">Story for Choco</string>
+    <string name="or">or</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+</resources>
